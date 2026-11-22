@@ -87,11 +87,11 @@ require (
 	github.com/projectdiscovery/goimpacket v0.1.1-0.20261007205806-6042a8213eeb
 	github.com/projectdiscovery/goja v0.0.0-20261012075649-9b78f2e05b9c
 	github.com/projectdiscovery/goja_nodejs v0.0.0-20260618132410-8519f75f703d
-	github.com/projectdiscovery/gologger v1.1.75
+	github.com/projectdiscovery/gologger v1.1.76
 	github.com/projectdiscovery/gostruct v0.0.2
 	github.com/projectdiscovery/govaluate v0.0.0-20261102102118-9294133b15a2
 	github.com/projectdiscovery/gozero v0.1.1
-	github.com/projectdiscovery/hmap v0.0.104
+	github.com/projectdiscovery/hmap v0.0.105
 	github.com/projectdiscovery/httpx v1.12.0
 	github.com/projectdiscovery/interactsh v1.4.1
 	github.com/projectdiscovery/mapcidr v1.1.97
@@ -99,13 +99,13 @@ require (
 	github.com/projectdiscovery/networkpolicy v0.1.58
 	github.com/projectdiscovery/ratelimit v0.0.95
 	github.com/projectdiscovery/rawhttp v0.3.1
-	github.com/projectdiscovery/retryabledns v1.0.118
-	github.com/projectdiscovery/retryablehttp-go v1.3.34
+	github.com/projectdiscovery/retryabledns v1.0.119
+	github.com/projectdiscovery/retryablehttp-go v1.3.35
 	github.com/projectdiscovery/sarif v0.1.0
 	github.com/projectdiscovery/tlsx v1.4.3-0.20261020052910-acb80c2c7c75
 	github.com/projectdiscovery/uncover v1.2.1
 	github.com/projectdiscovery/useragent v0.0.110
-	github.com/projectdiscovery/utils v0.11.13
+	github.com/projectdiscovery/utils v0.11.16
 	github.com/projectdiscovery/wappalyzergo v0.3.8
 	github.com/projectdiscovery/yamldoc-go v1.0.9
 	github.com/redis/go-redis/v9 v9.19.0
